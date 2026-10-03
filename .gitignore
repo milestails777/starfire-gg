@@ -1,0 +1,5 @@
+assets/
+dist/*.lst
+__pycache__/
+tools/__pycache__/
+.idea/
